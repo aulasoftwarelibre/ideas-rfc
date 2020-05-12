@@ -1,5 +1,7 @@
 # Portal para la creación de la próxima versión de IDEAS
 
+## ¿Qué es IDEAS?
+
 La plataforma de ideas del Aula de Software Libre es la principal herramienta de organización del Aula. El planteamiento inicial era poder captar el interes o no en ciertas charlas entre los miembros del Aula. Posteriormente también se ha venido usando para gestionar las inscripciones, entremezclando un poco el concepto de "idea" de actividad y de la actividad en sí.
 
 El proyecto ha ido creciendo de una manera para la que no estaba diseñado y ha acumulado mucha deuda técnica. El objetivo de este proyecto es volver a crear una plataforma desde cero que:
@@ -14,4 +16,6 @@ Stack:
 - Frontend: Next+React o Nuxt+Vue (otras opciones a discutir)
 - Lenguaje: TypeScript
 
-Cualquier persona puede aportar ideas abriendo un _Issue_.
+## Cómo colaborar
+
+Cualquier persona puede aportar ideas abriendo una [Notificación](https://github.com/aulasoftwarelibre/ideas-rfc/issues/new?assignees=&labels=&template=rfc.md&title=) y explicando su propuesta.
